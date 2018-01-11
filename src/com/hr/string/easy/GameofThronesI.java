@@ -1,3 +1,4 @@
+package com.hr.string.easy;
 import java.io.*;
 import java.util.*;
 import java.util.Map.Entry;

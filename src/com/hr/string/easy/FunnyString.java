@@ -1,3 +1,4 @@
+package com.hr.string.easy;
 import java.util.Scanner;
 
 public class FunnyString {
