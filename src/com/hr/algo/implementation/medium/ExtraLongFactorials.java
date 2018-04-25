@@ -1,9 +1,6 @@
 package com.hr.algo.implementation.medium;
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.math.BigInteger;
+import java.util.Scanner;
 
 public class ExtraLongFactorials {
 
