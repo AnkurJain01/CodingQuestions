@@ -1,1 +1,1 @@
-# HackerRank
+# Coding/Competitive Questions
